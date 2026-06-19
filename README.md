@@ -135,8 +135,8 @@ Coleccion: `pagos_simulados`
 | intl            | ^0.19.0  | Formateo de fechas                  |
 | google_fonts    | ^6.1.0   | Tipografia personalizada            |
 
-## Aviso
+## Capturas
 
-Esta aplicacion tiene fines educativos y de demostracion. No procesa pagos reales, no se conecta a ninguna red de tarjetas ni entidad financiera, y el resultado de cada transaccion se determina de forma aleatoria.
 
- del autor.
+BAse de datos en firebase
+<img width="1896" height="875" alt="image" src="https://github.com/user-attachments/assets/04a2ce24-b58b-4cee-a208-c39a843ed042" />

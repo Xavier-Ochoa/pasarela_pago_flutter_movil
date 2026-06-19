@@ -139,6 +139,4 @@ Coleccion: `pagos_simulados`
 
 Esta aplicacion tiene fines educativos y de demostracion. No procesa pagos reales, no se conecta a ninguna red de tarjetas ni entidad financiera, y el resultado de cada transaccion se determina de forma aleatoria.
 
-## Licencia
-
-Este proyecto se distribuye sin una licencia especifica. Si se desea reutilizar el codigo, se recomienda agregar un archivo LICENSE acorde a las necesidades del autor.
+ del autor.
